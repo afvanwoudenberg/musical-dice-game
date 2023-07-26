@@ -1,0 +1,16 @@
+name: musical-dice-game
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.11
+  - notebook
+  - jupyterlab
+  - matplotlib
+  - ipywidgets
+  - mido
+  - pip
+  - numpy
+  - pip:
+    - python-rtmidi
+
