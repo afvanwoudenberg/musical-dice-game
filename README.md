@@ -42,17 +42,14 @@ jupyter notebook
 
 Some included files that might be of interest:
 
-| File                                   | Description                                                                          |
-|:---------------------------------------|:-------------------------------------------------------------------------------------|
-| musikalisches_wuerfelspiel_scanned.pdf | A scan of the original.                                                              |
-| musikalisches_wuerfelspiel.mscz        | A digitized version in MuseScore format.                                             |
-| musikalisches_wuerfelspiel.mxl         | A digitized version in MusicXML format.                                              |
-| musikalisches_wuerfelspiel.pdf         | A printable version.                                                                 |
-| musikalisches_wuerfelspiel.mid         | A MIDI file that contains all music fragments which is loaded by the Python program. |
-
-Listen to a sample:
-
-<audio control musikalisches_wuerfelspiel.mp3>
+| File                                                                             | Description                                                                          |
+|:---------------------------------------------------------------------------------|:-------------------------------------------------------------------------------------|
+| [musikalisches_wuerfelspiel_scanned.pdf](musikalisches_wuerfelspiel_scanned.pdf) | Scan of the original                                                                 |
+| [musikalisches_wuerfelspiel.mscz](musikalisches_wuerfelspiel.mscz)               | Digitized version in MuseScore format                                                |
+| [musikalisches_wuerfelspiel.mxl](musikalisches_wuerfelspiel.mxl)                 | Digitized version in MusicXML format                                                 |
+| [musikalisches_wuerfelspiel.pdf](musikalisches_wuerfelspiel.pdf)                 | Printable version                                                                    |
+| [musikalisches_wuerfelspiel.mid](musikalisches_wuerfelspiel.mid)                 | MIDI file that contains all music fragments which is loaded by the Python program    |
+| [musikalisches_wuerfelspiel.mp3](musikalisches_wuerfelspiel.mp3)                 | Audio version of a composition                                                       |
 
 ### Links
 
